@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "444123145977",
+    "firebase_url": "https://smarthealth2-2002.firebaseio.com",
+    "project_id": "smarthealth2-2002",
+    "storage_bucket": "smarthealth2-2002.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444123145977:android:1db195a2e84e87a675a428",
+        "android_client_info": {
+          "package_name": "first.bytes.smarthealth2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444123145977-fftp041efu832t4e5b6p7bvhcqgaubdn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "first.bytes.smarthealth2",
+            "certificate_hash": "8f5c811e5e6e41e95f916b638b1f83f7c756c432"
+          }
+        },
+        {
+          "client_id": "444123145977-ot26ec270bgot51d3dt5b2vsjrskqere.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl7C9y3PWj6S4PdIzNDa9uYTxbXcRzn-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444123145977-ot26ec270bgot51d3dt5b2vsjrskqere.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
